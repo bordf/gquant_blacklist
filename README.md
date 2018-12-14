@@ -9,11 +9,12 @@ Gquant量化 -股票关注名单  http://www.gquant.net/public/blacklist/
 使用说明：
 
 1. 黑名单有时效性，回测的时候最好不使用，模拟交易建议使用。 
-2. 请访问http://www.gquant.net/public/blacklist/stock.json进行网络数据抓取或者本地保存后使用。 
+2. 请访问http://www.gquant.net/public/blacklist/stock.json    进行网络数据抓取或者本地保存后使用。 
 3. 数据源默认为json格式，分为两个节点：名单内股票和剔除名单股票，请视实际情况而定。 
 同时提供其他常用调用方法，请点击以下链接查看：① 网页表格 ② 聚宽python方式 ③ BigQuant python方式 ④ 原生PHP方式 
 4. 数据源会不定期更新，欢迎公共维护（新增或修改名单） 
 欢迎交流，联系方式：http://www.gquant.net/public/
+
 最后一句，君子爱财，取之有道。不是什么钱都可以赚的！岂能因声音微小而不呐喊？
 
 聚宽python方式
